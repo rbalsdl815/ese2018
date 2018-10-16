@@ -33,7 +33,7 @@ int main(void)
    turbo_off();
    postprocessing();
 
-
+  printf("Good bye\n");
 
     return 0;
  
