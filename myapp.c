@@ -35,6 +35,7 @@ int main(void)
 
   printf("Good bye\n");
 
+  printf("hello again \n");
     return 0;
  
 }
